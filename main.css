@@ -1,0 +1,35 @@
+
+.container {
+    padding: 0px;
+    position: center;
+  }
+body{
+    background-color: rgb(4, 174, 253);
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+}
+div{
+    border: 5px blue;
+    text-align: center;
+}
+hr {
+    border: 1px solid #808080;
+    margin-bottom: 20px;
+  }
+  nav{
+      text-align: right;
+      background-color: rgb(255, 255, 255);
+  }
+  .regbutton{
+    background-color: blue;
+    color: white;
+  }
+  .iconbuttons{
+    position: abosolute;
+    padding: 0px;
+    image-rendering: 10%;
+    width: 50%;
+    height: 50%;
+  }
